@@ -1,0 +1,9 @@
+{
+    "index": {
+        "fields": [ "gender", "blood_type"]
+    },
+    "ddoc": "genderIndexDoc",
+    "name": "genderIndex",
+    "type": "json"
+}
+
